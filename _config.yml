@@ -31,7 +31,7 @@ navbar-links:
 
 
 gitalk :
-  clientID: "f2m4"
+  clientID: ""
   clientSecret: ""
   repo: ""
   owner: ""
