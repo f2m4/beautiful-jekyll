@@ -1,16 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 打破自以为然,才能有所突破.
 ---
 
-My name is Mark I have the following qualities:
+我是一名对计算机业余爱好者.不算沉迷.也总是抱有好奇.杂七杂八的学了许多东西.没有系统的总结.脑海中一团混沌.只希望记录下来自己学到的东西.为自己解惑.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- 总结自己遇到的各种坑.
+- 梳理我的工作记忆.
 
-What else do you need?
 
-### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### 致谢
++ 感谢那些贡献自己经验的人.
++ 感觉默默为计算机作出贡献的人.
++ 感觉这个时代和我的家人.
+
+
